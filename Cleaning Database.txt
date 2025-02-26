@@ -1,0 +1,3 @@
+DROP TABLE usage_entries CASCADE;
+DROP TABLE columns CASCADE;
+DROP TABLE users CASCADE;
