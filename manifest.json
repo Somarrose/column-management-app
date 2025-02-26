@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.16",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.0",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "4af7d62275be038d9a5656779eec9e9a"
+    },
+    "app.py": {
+      "checksum": "50b24d8675c97faef10b222a32c5d4fc"
+    },
+    "database.py": {
+      "checksum": "4723d91719e643495e7b8201b433430d"
+    },
+    "gsk_logo.png": {
+      "checksum": "926efd3873fbbbd20dabd17b596bbb89"
+    },
+    "reservations.db": {
+      "checksum": "c8794e903e2f6a449842395de742ebd3"
+    }
+  }
+}

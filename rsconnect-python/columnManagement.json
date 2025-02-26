@@ -1,0 +1,12 @@
+{
+    "https://warp-view.gsk.com": {
+        "server_url": "https://warp-view.gsk.com",
+        "filename": "C:\\Users\\sk965050\\OneDrive - GSK\\Documents\\columnManagement",
+        "app_url": "https://warp-view.gsk.com/content/0ddb42ef-54d1-4c8a-9c8f-818aad8481df/",
+        "app_id": "0ddb42ef-54d1-4c8a-9c8f-818aad8481df",
+        "app_guid": "0ddb42ef-54d1-4c8a-9c8f-818aad8481df",
+        "title": "Column Management App",
+        "app_mode": "python-streamlit",
+        "app_store_version": 1
+    }
+}
