@@ -1,6 +1,0 @@
-echo '{
- "version": 1,
- "locale": "en_US",
- "primary_rmd": "app.py",
- "platform": "python"
-}' > manifest.json
